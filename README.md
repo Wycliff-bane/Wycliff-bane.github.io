@@ -1,7 +1,6 @@
-# Wycliff-bane.github.
+# Wycliff-bane.github.io
 Jomacs DevOps Training ( Resume assignment )
 # Resume assaignment 
-# Resume Assignment
 
 Welcome to the **Resume Assignment** repository! This project is designed to help you create a professional resume using various tools and techniques. Whether you are a student or a professional looking to update your resume, this guide will assist you in the process.
 
